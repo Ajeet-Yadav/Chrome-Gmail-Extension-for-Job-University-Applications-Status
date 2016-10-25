@@ -1,4 +1,4 @@
-# Chrome-Gmail-Extension-for-Unsuccessful-Applications
+# Chrome-Gmail-Extension-for-Job-University-Applications
 Chrome extension which reads the email related with Job or University applications. Shows the result either Accepted or rejected without going through the whole email(Lowers anxiety, I suppose).
 
 We'll create extension for Chrome with these core technologies from web development: HTML, CSS, and JavaScript.
