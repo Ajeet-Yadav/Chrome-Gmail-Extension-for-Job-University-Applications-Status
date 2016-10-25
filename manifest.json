@@ -5,7 +5,7 @@
   "description": "This extension shows Job/University Applications Status without going through whole email",
   "version": "1.0",
   "author": "Ajeet Yadav",
-  "homepage_url": "https://github.com/ajeetrocks100/Chrome-Gmail-Extension-for-Unsuccessful-Applications",
+  "homepage_url": "https://github.com/ajeetrocks100/Chrome-Gmail-Extension-for-Job-University-Applications-Status",
   
 "browser_action": {
     "default_icon": "icon.png",
