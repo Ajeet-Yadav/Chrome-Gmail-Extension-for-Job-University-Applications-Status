@@ -1,14 +1,16 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension shows a Google Image search result for the current page",
+  "name": "Gmail Applications Status",
+  "description": "This extension shows Job/University Applications Status without going through whole email",
   "version": "1.0",
+  "author": "Ajeet Yadav",
+  "homepage_url": "https://github.com/ajeetrocks100/Chrome-Gmail-Extension-for-Unsuccessful-Applications",
   
 "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html",
-    "default_title": "Click here!"
+    "default_title": "Your Applications Status"
   },
   "permissions": [
     "activeTab",
